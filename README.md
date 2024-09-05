@@ -41,6 +41,6 @@ Feel free to open issues or submit pull requests if you'd like to contribute. An
 
 ## Connect
 
-If you enjoyed this project or have any questions, connect with me on [[LinkedIn](https://www.linkedin.com/in/fayez-sabry-59629229b/)](#).
+If you enjoyed this project or have any questions, connect with me on [[LinkedIn]](https://www.linkedin.com/in/fayez-sabry-59629229b/).
 
 Happy Coding! 💻🎉
